@@ -1,0 +1,9 @@
+[package]
+name = "bloomy"
+version = "0.1.0"
+authors = ["stein-k <karlsen.stein@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bit-vec = "0.6.1"
+bloomfilter = "1.0.2"
